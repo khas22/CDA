@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Crawl-delay to prevent server overload
+Crawl-delay: 1
+
+# Allow all important pages
+Allow: /
+Allow: /services.html
+Allow: /industries.html
+Allow: /insights.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /request-proposal.html
+
+# Block admin and system files (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://cdapartners.com.ng/sitemap.xml

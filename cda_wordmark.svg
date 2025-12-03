@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" fill="white"/>
+  <g transform="translate(20,20)">
+    <g transform="scale(0.38)">
+      <defs>
+        <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#123B74"/>
+          <stop offset="1" stop-color="#1FA6E0"/>
+        </linearGradient>
+      </defs>
+      <circle cx="320" cy="320" r="300" fill="none" stroke="#0B1E3A" stroke-width="40"/>
+      <rect x="510" y="180" width="120" height="280" fill="white"/>
+      <circle cx="320" cy="320" r="250" fill="none" stroke="url(#g2)" stroke-width="18"/>
+      <path d="M210,170 L260,170 C370,170 430,250 430,320 C430,390 370,470 260,470 L210,470 Z
+               M260,220 L260,420 C340,420 380,360 380,320 C380,280 340,220 260,220 Z" fill="#123B74"/>
+      <path d="M320,210 L390,430 L350,430 L330,370 L310,370 L290,430 L250,430 L320,210 Z
+               M310,330 L330,330 L320,300 Z" fill="#1FA6E0"/>
+    </g>
+    <g transform="translate(280,60)">
+      <text x="0" y="70" font-family="Inter, ui-sans-serif, system-ui, -apple-system" font-size="64" font-weight="800" fill="#0B1E3A">
+        CDA AND PARTNERS CONSULTING
+      </text>
+      <text x="0" y="120" font-family="Inter, ui-sans-serif, system-ui, -apple-system" font-size="22" font-weight="500" fill="#123B74">
+        External Auditors • Accounting & Tax Professionals • Management Consulting
+      </text>
+      <text x="0" y="168" font-family="Inter, ui-sans-serif, system-ui, -apple-system" font-size="18" fill="#334155">
+        No.727c, Building Material Market, FO1, Kubwa, Abuja, FCT
+      </text>
+    </g>
+  </g>
+</svg>
